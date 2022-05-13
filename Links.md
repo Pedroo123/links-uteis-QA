@@ -3,7 +3,7 @@
 ### Conceitos
 
 1. [Manifesto Agil](https://robsoncamargo.com.br/blog/Manifesto-Agil-entenda-como-surgiu-e-conheca-os-12-principios)
-2. [O que é Front & Back end?](https://degreed.com/articles/o-que-front-end-e-back-end-alura-cursos-online?d=20339309&view=true&contentSource=Pathway&contentSourceId=1909905)
+2. [O que é Front & Back end?](https://www.alura.com.br/artigos/o-que-e-front-end-e-back-end)
 3. [Qualidade de Software e Engenharia de Software](https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209)
 4. [CTFL](https://bstqb.org.br/b9/sobre-ctfl)
 5. [Estrategia e Testes de Software](https://youtu.be/id8Yf3iXroY)
