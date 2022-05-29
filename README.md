@@ -12,6 +12,12 @@
 
 ---
 
+### Estrategia de Testes em Microserviços
+
+1. [Testes em Microserviços](https://martinfowler.com/articles/microservice-testing/)
+
+---
+
 ### Logica de Programação
 
 1. [Logica de programação](https://kenzie.com.br/blog/logica-de-programacao/)
